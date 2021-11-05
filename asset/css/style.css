@@ -38,7 +38,7 @@ img{
 }
  
 .navbar-light .navbar-toggler-icon {
-    background-image: url("menu.png");
+    background-image: url("asset/image/menu.png");
     opacity: 0.5;
 }
 .navbar-toggler-icon:hover{
@@ -68,7 +68,7 @@ img{
 /*///////////////////////////////////////////////////////////////////////////// About //////////////////////////////////////////////////////////////////////////////*/
 #about .jumbotron{
     height: 120vh;
-    background-image: url("bg.jpg");
+    background-image: url("../asset/image/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 0;
