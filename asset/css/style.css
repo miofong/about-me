@@ -68,7 +68,7 @@ img{
 /*///////////////////////////////////////////////////////////////////////////// About //////////////////////////////////////////////////////////////////////////////*/
 #about .jumbotron{
     height: 120vh;
-    background-image: url("asset/image/bg.JPG");
+    background-image: url("asset/image/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 0;
